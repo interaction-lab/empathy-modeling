@@ -1,21 +1,12 @@
 # empathy-modeling
 
-**Action Items** [aim for July 2021, and latest by September 2021]
-- [ ] add dataset files with a well-documented format
-- [ ] add modeling code
-- [ ] make it easy for future models to run on the benchmark 
-- [ ] add all figures code
-- [ ] add bibtex and arXiv link
-***
+### Dataset Information
+* All videos with frame-by-frame processed features are in the `video_features` folder
+* Data files are named with the following structure: "`averaged_{participant id}_{2020}_{month}_{day}_{story id}.csv`"
 
-
-### Dataset Info
-describe dataset + functions for anyone else to use
 
 ### Modeling
-tbd
 
 ### Citation
-Leena Mathur, Micol Spitale, Hao Xi, Jieyun Li and Maja J Matarić. "Modeling User Empathy Elicited by a Robot Storyteller", *International Conference on Affective Computing & Intelligent Interaction (ACII 2021)*, Nara, Japan, Sept-2021. [link tbd]
+Leena Mathur, Micol Spitale, Hao Xi, Jieyun Li, and Maja J Matarić. "Modeling User Empathy Elicited by a Robot Storyteller", *International Conference on Affective Computing & Intelligent Interaction (ACII 2021)*, Nara, Japan, Sept-2021. [link tbd]
 
-bibtex tbd
